@@ -10,4 +10,4 @@ Migrasi baik dari On-Prem maupun Cloud provider lain ke Azure Cloud ada beberapa
 
 ---
 Supported by <br>
-[![Nozyra](image/nozyra-logo.svg)](https://nozyra.com)
+[![Nozyra](image/nozyra-logo-rounded.svg)](https://nozyra.com)
