@@ -7,3 +7,7 @@ Migrasi baik dari On-Prem maupun Cloud provider lain ke Azure Cloud ada beberapa
 ## Metode Migrasi
 - [_Export-Import VM_]()
 - [Azure Migrate]()
+
+---
+Supported by <br>
+[![Nozyra](image/nozra1.png)](https://nozyra.com)
