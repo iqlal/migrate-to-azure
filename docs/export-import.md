@@ -19,3 +19,5 @@ Klik kanan untuk membuka context menu, pilih pada bagian Export. <br>
 ![Hyper-V Manager](/image/export-import/1.png)
 Tentukan dimana letak file Export akan dibuat. <br>
 ![Export Location](/image/export-import/2.png)
+Buka letak lokasi file export VM, lalu pilih pada folder Virtual Hard Disks. Pada lokasi tersebut terdapat file yang ber-ekstensi .vhdx <br>
+![VHDX](/image/export-import/3.png)
