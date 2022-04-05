@@ -4,7 +4,7 @@
 Pada dokumentasi ini, akan diuraikan bagaimana cara migrasi VM menggunakan cara Export-Import ke Azure. Diasumsikan sudah memiliki VM yang akan di-Export dan juga Azure Subsciption yang aktif.
 
 ## Prasyarat
-Pada bagian ini, pastikan semua sudah tersedia agar tidak ada kendala pada tahap berikutnya
+Pada bagian ini, pastikan semua sudah tersedia agar tidak ada kendala pada tahap berikutnya <br>
 ✅ Azure Subscription yang aktif <br>
 ✅ Virtualisasi Platform, dapat menggunakan VMware Workstation, WMware vSphere, maupun Hyper-V <br>
 ✅ VM yang akan di Export <br>
