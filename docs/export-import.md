@@ -14,3 +14,6 @@ Pada bagian Proses Export VM, akan dirincikan bagaimana cara Export VM pada 2 Pl
 
 ### Export VM VMware
 ### Export VM Hyper-V
+Pada Hyper-V Manager, pilih VM yang akan di-export. Pada contoh, kami menggunakan Debian 11 CLI Edition yang terdapat Web Server Nginx untuk percobaan kemudian saat berhasil di-import ke Azure.
+Klik kanan untuk membuka context menu, pilih pada bagian Export.
+![Hyper-V Manager](/image/export-import/1.png)
