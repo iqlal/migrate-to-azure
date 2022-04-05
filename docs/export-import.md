@@ -16,8 +16,8 @@ Pada bagian Proses Export VM, akan dirincikan bagaimana cara Export VM pada 2 Pl
 ### Export VM Hyper-V
 Pada Hyper-V Manager, pilih VM yang akan di-export. Pada contoh, kami menggunakan Debian 11 CLI Edition yang terdapat Web Server Nginx untuk percobaan kemudian saat berhasil di-import ke Azure.
 Klik kanan untuk membuka context menu, pilih pada bagian Export. <br>
-![Hyper-V Manager](/image/export-import/1.png)
+![Hyper-V Manager](/image/export-import/1.png) <br>
 Tentukan dimana letak file Export akan dibuat. <br>
-![Export Location](/image/export-import/2.png)
+![Export Location](/image/export-import/2.png) <br>
 Buka letak lokasi file export VM, lalu pilih pada folder Virtual Hard Disks. Pada lokasi tersebut terdapat file yang ber-ekstensi .vhdx <br>
-![VHDX](/image/export-import/3.png)
+![VHDX](/image/export-import/3.png) <br>
