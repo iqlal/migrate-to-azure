@@ -21,3 +21,4 @@ Tentukan dimana letak file Export akan dibuat. <br>
 ![Export Location](/image/export-import/2.png) <br>
 Buka letak lokasi file export VM, lalu pilih pada folder Virtual Hard Disks. Pada lokasi tersebut terdapat file yang ber-ekstensi .vhdx <br>
 ![VHDX](/image/export-import/3.png) <br>
+Jika sudah ditemukan file tersebut, maka proses Export sudah selesai.
